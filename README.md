@@ -13,7 +13,7 @@ Please describe your Startup Campus final project here. You may should your <b>m
 | Tiara       | Startup Campus, AI Track | tiaraputrim822@gmail.com      | https://www.linkedin.com/in/tiara-putri-maharani-bb24a0292/ | Team Member |
 | Nabila      | Startup Campus, AI Track | nabilaskmngr@gmail.com        | https://www.linkedin.com/in/nabila-sukmanegara-39bb34277/   | Team Member |
 | Usama       | Startup Campus, AI Track | posowandhy1@gmail.com         | https://www.linkedin.com/in/usama-997656268                 | Team Member |
-| Fikri       | Startup Campus, AI Track |                               | [link](https://linkedin.com/in/nicholas-dominic)            |             |
+| Fikri       | Startup Campus, AI Track | fikriarifviando.if@gmail.com  | https://www.linkedin.com/in/fikri-arifviando                | Team Member |
 
 ## Setup
 
@@ -83,6 +83,7 @@ Insert an image regarding your training and evaluation performances (especially 
 ### Testing
 
 Show some implementations (demos) of this model. Show **at least 10 images** of how your model performs on the testing data.
+https://drive.google.com/drive/folders/1tVFF0gLDK4-JTmoWfQzNNMVx12GQcYmS
 
 ### Deployment (Optional)
 
@@ -96,7 +97,7 @@ Show some implementations (demos) of this model. Show **at least 10 images** of 
 
 ### Business Model Canvas
 
-Provide a screenshot of your Business Model Canvas (BMC). Give some explanations, if necessary.
+Provide a screenshot of your Business Model Canvas (BMC). Give some explanations, if necessary. https://drive.google.com/drive/folders/1_sKOUqERhjqELpjp_T2IcLXDyyVPw5pJ 
 
 ### Short Video
 
