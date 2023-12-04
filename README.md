@@ -8,7 +8,7 @@ Please describe your Startup Campus final project here. You may should your <b>m
 
 | Full Name   | Affiliation              | Email                         | LinkedIn                                                    | Role        |
 | ----------- | ------------------------ | ----------------------------- | ----------------------------------------------------------- | ----------- |
-| Yoshua P Sr | Startup Campus, AI Track | josuasiringoringo06@gmail.com |                                                             | Team Lead   |
+| Yoshua P Sr | Startup Campus, AI Track | josuasiringoringo06@gmail.com | https://www.linkedin.com/in/yosua-siringo-524159260/        | Team Lead   |
 | Ivan        | Startup Campus, AI Track | ivanputram007@gmail.com       | https://www.linkedin.com/in/ivan-putra-m-24a267237          | Team Member |
 | Tiara       | Startup Campus, AI Track | tiaraputrim822@gmail.com      | https://www.linkedin.com/in/tiara-putri-maharani-bb24a0292/ | Team Member |
 | Nabila      | Startup Campus, AI Track | nabilaskmngr@gmail.com        | https://www.linkedin.com/in/nabila-sukmanegara-39bb34277/   | Team Member |
